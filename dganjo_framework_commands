@@ -1,0 +1,4 @@
+1. pip install django==2.1
+2. django-admin startproject {project_name} . (to open new projet)
+3. python3 manage.py runserver (to open webserver)
+4. python3 manage.py startapp products  (products is new folder in project)
